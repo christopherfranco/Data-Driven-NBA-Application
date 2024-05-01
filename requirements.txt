@@ -1,0 +1,8 @@
+nba_api
+streamlit_option_menu
+requests
+streamlit
+plotly
+pandas
+streamlit_folium
+folium
